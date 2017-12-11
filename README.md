@@ -12,8 +12,10 @@ Make sure you install c3-chart-maker globallly as follows:
 
     npm install -g c3-chart-maker
 
+Now clone or download this repo so you have a local copy.
+
 ## Generate charts
 
-Run the batch file to generate the example charts:
+Change directory into your local copy of this repo and run the batch file to generate the two example charts:
 
     gen-charts.bat
