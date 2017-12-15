@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-chart-rendering-example-data",
+  "version": "1.0.0",
+  "description": "This repo demonstrates a use case for [c3-chart-maker](https://github.com/codecapers/c3-chart-maker).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ashleydavis@github.com/ashleydavis/nodejs-chart-rendering-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/nodejs-chart-rendering-example/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/nodejs-chart-rendering-example#readme",
+  "dependencies": {
+    "c3-chart-maker": "0.1.13"
+  }
+}
