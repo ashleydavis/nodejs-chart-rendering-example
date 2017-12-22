@@ -2,7 +2,7 @@
 
 This repo demonstrates a use case for [c3-chart-maker](https://github.com/codecapers/c3-chart-maker).
 
-It shows how to render a chart from a CSV data file from the command line and accompanies a blog post on [The Data Wrangler](http://www.the-data-wrangler.com/).
+It shows how to render a chart from a CSV data file from the command line and accompanies a blog post on [The Data Wrangler](http://www.the-data-wrangler.com/node-js-chart-rendering-with-c3-and-nightmare/).
 
 ## Setup
 
@@ -16,6 +16,6 @@ Now clone or download this repo so you have a local copy.
 
 ## Generate charts
 
-Change directory into your local copy of this repo and run the batch file to generate the two example charts:
+Change directory into your local copy of this repo and run the batch file to generate the example chart:
 
-    gen-charts.bat
+    gen-example-chart.bat
